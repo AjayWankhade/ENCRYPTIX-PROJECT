@@ -1,3 +1,9 @@
+
+This is my second task which has blog app name 
+hosted on aws
+
+
+
 MERN stack blogging website .
 
 ## Technologies Used -
